@@ -96,8 +96,8 @@ All three Live API upgrades degrade gracefully: if the preview API ever rejects 
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/FatihMakes/Mark-LI.git
-cd Mark-LI
+git clone https://github.com/createchrd1/createch-jarvis.git
+cd createch-jarvis
 pip install -r requirements.txt
 python main.py
 ```
